@@ -1,0 +1,11 @@
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.exe
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.deps.json
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.runtimeconfig.json
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.runtimeconfig.dev.json
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.dll
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\bin\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.pdb
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\obj\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.csprojAssemblyReference.cache
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\obj\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.AssemblyInfoInputs.cache
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\obj\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.AssemblyInfo.cs
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\obj\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.dll
+C:\Users\manu\source\repos\MoveAllZerosToEndInArray\MoveAllZerosToEndInArray\obj\Debug\netcoreapp3.1\MoveAllZerosToEndInArray.pdb
